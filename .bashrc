@@ -25,4 +25,4 @@ alias fgrep='fgrep --color=auto'
 alias grep='grep --color=auto'
 
 # Clear bash history - recommended (#security)
-/dev/null > ~/.bash_history
+> ~/.bash_history
