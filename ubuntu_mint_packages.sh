@@ -1,0 +1,1 @@
+sudo apt-get install build-essencial ia32-libs vim vim-gtk git flashplugin-installer ttf-mscorefonts-installer chromium-browser apache2 php5 php5-mysql php5-pgsql php5-mcrypt php5-curl mysql-client mysql-server filezilla p7zip virtualbox
